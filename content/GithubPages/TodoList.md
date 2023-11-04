@@ -5,4 +5,5 @@ Todo List
 
 # Tips
 ## quartz 使用
+    npx quartz build
     npx quartz sync
