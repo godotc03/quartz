@@ -7,6 +7,9 @@
 	1. obsidian 下载 workspace 设置 插件安装
 	2. 目录设置
 	3. 通过 obsidian 发布blogs 到 GitHub Pages.
+		1. shell command 插件安装. 
+		2. 命令编辑 快捷键设置
+		3. shell 环境变量设置,把node npx所在目录增加到环境变量中.
 
 # Tips
 
